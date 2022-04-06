@@ -4,7 +4,7 @@
     <TargetFramework>net5.0</TargetFramework>
     <AssemblyName>HraveMzdy.Procezor</AssemblyName>
     <RootNamespace>HraveMzdy.Procezor</RootNamespace>
-    <Version>0.22.3</Version>
+    <Version>0.22.4</Version>
     <Authors>Ladislav Lisy</Authors>
     <Description>General payroll procesor</Description>
     <Copyright>Copyright 2022</Copyright>
@@ -18,7 +18,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="HraveMzdy.Legalios" Version="0.22.3" />
+    <PackageReference Include="HraveMzdy.Legalios" Version="0.22.4" />
     <PackageReference Include="ResultMonad" Version="1.0.1" />
   </ItemGroup>
 
